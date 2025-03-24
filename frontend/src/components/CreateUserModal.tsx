@@ -18,6 +18,7 @@ import {
 	useToast,
 } from "@chakra-ui/react";
 import React from "react";
+import { useState } from "react";
 import { BiAddToQueue } from "react-icons/bi";
 import { BASE_URL } from "../App";
 

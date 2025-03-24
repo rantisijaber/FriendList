@@ -1,2 +1,5 @@
 # Ignore the friends.db file
 friends.db
+
+#Ignore instance
+instance
